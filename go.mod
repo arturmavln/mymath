@@ -1,3 +1,3 @@
-module gitlab.com/arturmikma/mymath
+module github.com/arturmavln/mymath
 
 go 1.19
