@@ -1,3 +1,3 @@
-module studentgit.kata.academy/arturm/go-kata
+module gitlab.com/arturm/mymath
 
 go 1.19
